@@ -1,0 +1,11 @@
+h3{
+    text-decoration: underline;
+}
+.chores{
+    font-family: 'london';
+    font-size: 1.6vw;
+    color: royalblue;
+}
+li{
+    font-style: italic;
+}
